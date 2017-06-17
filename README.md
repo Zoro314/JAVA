@@ -1,4 +1,4 @@
-# JavaRESTServer
-A REST API Server built in JAVA using Spring Framework.
+# JAVA
+This Repo contains Application built using Java and Java Frameworks.
 
 
